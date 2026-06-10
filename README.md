@@ -1,135 +1,99 @@
-<h1 align="center">Hi there, I'm Jaylan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+# 🍥Fuwari  
+![Node.js >= 20](https://img.shields.io/badge/node.js-%3E%3D20-brightgreen) 
+![pnpm >= 9](https://img.shields.io/badge/pnpm-%3E%3D9-blue) 
+[![DeepWiki](https://img.shields.io/badge/DeepWiki-saicaca%2Ffuwari-blue.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAyCAYAAAAnWDnqAAAAAXNSR0IArs4c6QAAA05JREFUaEPtmUtyEzEQhtWTQyQLHNak2AB7ZnyXZMEjXMGeK/AIi+QuHrMnbChYY7MIh8g01fJoopFb0uhhEqqcbWTp06/uv1saEDv4O3n3dV60RfP947Mm9/SQc0ICFQgzfc4CYZoTPAswgSJCCUJUnAAoRHOAUOcATwbmVLWdGoH//PB8mnKqScAhsD0kYP3j/Yt5LPQe2KvcXmGvRHcDnpxfL2zOYJ1mFwrryWTz0advv1Ut4CJgf5uhDuDj5eUcAUoahrdY/56ebRWeraTjMt/00Sh3UDtjgHtQNHwcRGOC98BJEAEymycmYcWwOprTgcB6VZ5JK5TAJ+fXGLBm3FDAmn6oPPjR4rKCAoJCal2eAiQp2x0vxTPB3ALO2CRkwmDy5WohzBDwSEFKRwPbknEggCPB/imwrycgxX2NzoMCHhPkDwqYMr9tRcP5qNrMZHkVnOjRMWwLCcr8ohBVb1OMjxLwGCvjTikrsBOiA6fNyCrm8V1rP93iVPpwaE+gO0SsWmPiXB+jikdf6SizrT5qKasx5j8ABbHpFTx+vFXp9EnYQmLx02h1QTTrl6eDqxLnGjporxl3NL3agEvXdT0WmEost648sQOYAeJS9Q7bfUVoMGnjo4AZdUMQku50McDcMWcBPvr0SzbTAFDfvJqwLzgxwATnCgnp4wDl6Aa+Ax283gghmj+vj7feE2KBBRMW3FzOpLOADl0Isb5587h/U4gGvkt5v60Z1VLG8BhYjbzRwyQZemwAd6cCR5/XFWLYZRIMpX39AR0tjaGGiGzLVyhse5C9RKC6ai42ppWPKiBagOvaYk8lO7DajerabOZP46Lby5wKjw1HCRx7p9sVMOWGzb/vA1hwiWc6jm3MvQDTogQkiqIhJV0nBQBTU+3okKCFDy9WwferkHjtxib7t3xIUQtHxnIwtx4mpg26/HfwVNVDb4oI9RHmx5WGelRVlrtiw43zboCLaxv46AZeB3IlTkwouebTr1y2NjSpHz68WNFjHvupy3q8TFn3Hos2IAk4Ju5dCo8B3wP7VPr/FGaKiG+T+v+TQqIrOqMTL1VdWV1DdmcbO8KXBz6esmYWYKPwDL5b5FA1a0hwapHiom0r/cKaoqr+27/XcrS5UwSMbQAAAABJRU5ErkJggg==)](https://deepwiki.com/saicaca/fuwari)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaicaca%2Ffuwari.svg?type=shield&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaicaca%2Ffuwari?ref=badge_shield&issueType=license)
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?lines=Graphics+Engineer+🔺;AI+Rendering+Researcher+🧠;Autonomous+Driving+Enthusiast+🚗;Robotics+Explorer+🤖;Reverse+Engineering+Hacker+🔍;Physics+Simulation+Dev+🎬;Flutter+Engine+Contributor+📱&center=true&size=22&duration=2800&pause=2000&color=58a6ff&vCenter=true&width=600&height=45"></a>
-</p>
+A static blog template built with [Astro](https://astro.build).
 
-<p align="center">
-  <strong>Graphics · Vision · Physics · AI Rendering · Autonomous Driving · Robotics · Reverse Engineering</strong>
-</p>
+[**🖥️ Live Demo (Vercel)**](https://fuwari.vercel.app)
 
-<p align="center">
-  A multidisciplinary technologist passionate about rendering, AI-driven graphics, and intelligent systems.
-</p>
+![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
 
+🌏 README in
+[**中文**](https://github.com/saicaca/fuwari/blob/main/docs/README.zh-CN.md) /
+[**日本語**](https://github.com/saicaca/fuwari/blob/main/docs/README.ja.md) /
+[**한국어**](https://github.com/saicaca/fuwari/blob/main/docs/README.ko.md) /
+[**Español**](https://github.com/saicaca/fuwari/blob/main/docs/README.es.md) /
+[**ไทย**](https://github.com/saicaca/fuwari/blob/main/docs/README.th.md) /
+[**Tiếng Việt**](https://github.com/saicaca/fuwari/blob/main/docs/README.vi.md) /
+[**Bahasa Indonesia**](https://github.com/saicaca/fuwari/blob/main/docs/README.id.md) (Provided by the community and may not always be up-to-date)
+
+## ✨ Features
+
+- [x] Built with [Astro](https://astro.build) and [Tailwind CSS](https://tailwindcss.com)
+- [x] Smooth animations and page transitions
+- [x] Light / dark mode
+- [x] Customizable theme colors & banner
+- [x] Responsive design
+- [x] Search functionality with [Pagefind](https://pagefind.app/)
+- [x] [Markdown extended features](https://github.com/saicaca/fuwari?tab=readme-ov-file#-markdown-extended-syntax)
+- [x] Table of contents
+- [x] RSS feed
+
+## 🚀 Getting Started
+
+1. Create your blog repository:
+    - [Generate a new repository](https://github.com/saicaca/fuwari/generate) from this template or fork this repository.
+    - Or run one of the following commands:
+       ```sh
+       npm create fuwari@latest
+       yarn create fuwari
+       pnpm create fuwari@latest
+       bun create fuwari@latest
+       deno run -A npm:create-fuwari@latest
+       ```
+2. To edit your blog locally, clone your repository, run `pnpm install` to install dependencies.
+    - Install [pnpm](https://pnpm.io) `npm install -g pnpm` if you haven't.
+3. Edit the config file `src/config.ts` to customize your blog.
+4. Run `pnpm new-post <filename>` to create a new post and edit it in `src/content/posts/`.
+5. Deploy your blog to Vercel, Netlify, GitHub Pages, etc. following [the guides](https://docs.astro.build/en/guides/deploy/). You need to edit the site configuration in `astro.config.mjs` before deployment.
+
+## 📝 Frontmatter of Posts
+
+```yaml
 ---
-
-### 🧭 About Me
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-- 🔭 Currently exploring **AI-accelerated rendering** and **neural implicit representations**
-- 🤖 Interested in **autonomous driving**, **robotics**, and **sensor fusion**
-
-</td>
-<td valign="top" width="50%">
-
-- 🎬 Passionate about **physics-based simulation** and **real-time animation**
-- 🔍 Enthusiast of **reverse engineering** and low-level system internals
-
-</td>
-</tr>
-</table>
-
+title: My First Blog Post
+published: 2023-09-09
+description: This is the first post of my new Astro blog.
+image: ./cover.jpg
+tags: [Foo, Bar]
+category: Front-end
+draft: false
+lang: jp      # Set only if the post's language differs from the site's language in `config.ts`
 ---
+```
 
-### 🛠️ Tech Stack
+## 🧩 Markdown Extended Syntax
 
-<table>
-<tr>
-<td valign="top" width="50%">
+In addition to Astro's default support for [GitHub Flavored Markdown](https://github.github.com/gfm/), several extra Markdown features are included:
 
-**Graphics & Rendering**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=cpp,opengl,vulkan,cmake,glew" alt="Graphics" />
+- Admonitions ([Preview and Usage](https://fuwari.vercel.app/posts/markdown-extended/#admonitions))
+- GitHub repository cards ([Preview and Usage](https://fuwari.vercel.app/posts/markdown-extended/#github-repository-cards))
+- Enhanced code blocks with Expressive Code ([Preview](https://fuwari.vercel.app/posts/expressive-code/) / [Docs](https://expressive-code.com/))
 
-</td>
-<td valign="top" width="50%">
+## ⚡ Commands
 
-**AI & Vision**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,onnx" alt="AI" />
+All commands are run from the root of the project, from a terminal:
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+| Command                    | Action                                              |
+|:---------------------------|:----------------------------------------------------|
+| `pnpm install`             | Installs dependencies                               |
+| `pnpm dev`                 | Starts local dev server at `localhost:4321`         |
+| `pnpm build`               | Build your production site to `./dist/`             |
+| `pnpm preview`             | Preview your build locally, before deploying        |
+| `pnpm check`               | Run checks for errors in your code                  |
+| `pnpm format`              | Format your code using Biome                        |
+| `pnpm new-post <filename>` | Create a new post                                   |
+| `pnpm astro ...`           | Run CLI commands like `astro add`, `astro check`    |
+| `pnpm astro --help`        | Get help using the Astro CLI                        |
 
-**Mobile & Cross-Platform**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile" />
+## ✏️ Contributing
 
-</td>
-<td valign="top" width="50%">
+Check out the [Contributing Guide](https://github.com/saicaca/fuwari/blob/main/CONTRIBUTING.md) for details on how to contribute to this project.
 
-**Tools & Systems**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=linux,git,docker,vscode" alt="Tools" />
+## 📄 License
 
-</td>
-</tr>
-</table>
+This project is licensed under the MIT License.
 
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [GraphicM](https://github.com/JayLanBlog/GraphicM) | Model Demo & Rendering Pipeline | C++, OpenGL |
-| [gz-usd](https://github.com/JayLanBlog/gz-usd) | SDFormat ↔ USD Conversion Tools | C++, USD |
-| [InsetLauncher](https://github.com/JayLanBlog/InsetLauncher) | Window Hook Library (Graphics) | C, Win32 |
-| [conditional-mixture](https://github.com/JayLanBlog/conditional-mixture) | Conditional Mixture Path Guiding for Differentiable Rendering (SIGGRAPH 2024) | C++ |
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JayLanBlog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayLanBlog&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
-</p>
-
----
-
-### 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JayLanBlog&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=f97316&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayLanBlog/JayLanBlog/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JayLanBlog/JayLanBlog/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/JayLanBlog/JayLanBlog/output/github-snake-dark.svg" />
-</picture>
-
----
-
-### 🏆 Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JayLanBlog&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" />
-</p>
-
----
-
-### 📫 Contact
-
-<p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-blog-url"><img src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JayLanBlog&color=58a6ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsaicaca%2Ffuwari.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsaicaca%2Ffuwari?ref=badge_large&issueType=license)
