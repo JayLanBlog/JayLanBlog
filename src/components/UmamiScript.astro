@@ -1,0 +1,14 @@
+---
+// Umami 访问统计组件
+// 请访问 https://umami.is 注册账户获取实际 websiteId
+const websiteId = ""; // 替换为实际的 Umami Website ID
+const src = "https://analytics.umami.is/script.js"; // 自托管则改为自己的地址
+---
+
+{websiteId && (
+  <script
+    async
+    src={src}
+    data-website-id={websiteId}
+  ></script>
+)}
